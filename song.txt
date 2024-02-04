@@ -6,4 +6,3 @@ additional field
 
 I make test commit
 
-+++++++++++++++++

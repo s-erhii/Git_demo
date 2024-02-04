@@ -6,5 +6,4 @@ additional field
 
 I make test commit
 +++some change
-+++additional change
 

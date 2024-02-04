@@ -7,3 +7,6 @@ additional field
 I make test commit
 +++some change
 
+++++++
+new change step 1
+
